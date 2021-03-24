@@ -20,11 +20,18 @@ body {
     height: 80vh;   
 }
   
-  .positioned {
+  .chatbox__container {
     position: absolute;
     background: #ededed;
     top: 2%;
     bottom: 2%;
     left: 5%;
     right: 5%;
+  }
+
+  header {
+      margin: 0;
+      background: #ededed;
+      height: 8%;
+      border-bottom: 1px solid #d8cfcf;
   }
