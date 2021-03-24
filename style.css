@@ -19,17 +19,10 @@ body {
     background-color: #d7dbd8;
     height: 80vh;   
 }
-
-p {
-    background: aqua;
-    border: 3px solid blue;
-    padding: 10px;
-    margin: 10px;
-  }
   
   .positioned {
     position: absolute;
-    background: yellow;
+    background: #ededed;
     top: 2%;
     bottom: 2%;
     left: 5%;
