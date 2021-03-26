@@ -47,12 +47,27 @@ body {
       height: 78vh;
   }
 
+  aside {
+    width: 30%;
+    border-right: 2px solid #d8cfcf;
+    height: 100%;
+    background: #ffffff;
+  }
+
   footer {
     margin: 0;
     background: #f0f0f0;
     height: 8vh;
     border-bottom: 1px solid #d8cfcf;
 }
+
+  div.left__footer {
+    width: 30%;
+    border-right: 2px solid #d8cfcf;
+    background: #ffffff;
+    height: 8vh;
+  }
+
 
 
 .nav__icons{
@@ -75,9 +90,11 @@ body {
     width: 50px;
     height: 45px;
     border-radius: 50%;
+    cursor: pointer;
   }
 
   .material-icons {
       color: #919191;
       padding: 20% 0;
+      cursor: pointer;
   }
